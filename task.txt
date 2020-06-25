@@ -4,3 +4,18 @@ created account in github
 learn how to work in github
 open new repository in github
 add files in github repository
+GIT COMMANDS
+   git init
+   git add .
+   git status
+   git commit -m<filename>
+   git restore
+   git rm
+   git reset
+GIT INIT :here,this command stands for initialize 
+GIT STATUS: for identify anything arrived or moved
+GIT ADD:by commiting file one by one isn't convenient and there is an alternative idea is the "git add"command we can add one and more files in this command.
+GIT COMMIT: it is used to commit the repository this comand follows with the letter -m ie denotes message.
+GIT RM: the command remove indicates remove files.
+how to push the file in repository?
+GIT RESET: this is exactly opposite to 'add'
