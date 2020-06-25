@@ -1,0 +1,6 @@
+install git
+install sublime 
+created account in github 
+learn how to work in github
+open new repository in github
+add files in github repository
