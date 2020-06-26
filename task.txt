@@ -19,3 +19,6 @@ GIT COMMIT: it is used to commit the repository this comand follows with the let
 GIT RM: the command remove indicates remove files.
 how to push the file in repository?
 GIT RESET: this is exactly opposite to 'add'
+SSH - secured shell(network protocol)
+add key in SSH
+learn "what is SSH?"
