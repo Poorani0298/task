@@ -21,6 +21,5 @@ how to push the file in repository?
 GIT RESET: this is exactly opposite to 'add'
 SSH - secured shell(network protocol)
 add key in SSH
-learn "what is SSH?"
 have completed ssh setup in git.
 public key and private key
